@@ -1,0 +1,4 @@
+.gitignore
+__pycache__
+static/
+*.sqlite3
